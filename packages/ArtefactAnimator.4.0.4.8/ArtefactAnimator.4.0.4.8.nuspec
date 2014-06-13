@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ArtefactAnimator</id>
+    <version>4.0.4.8</version>
+    <title>ArtefactAnimator</title>
+    <authors>CodePlex</authors>
+    <owners>CodePlex</owners>
+    <projectUrl>https://github.disney.com/espn-et-touchscreens-architecture/ArtefactAnimator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Animation class used in WPF touchscreens</description>
+    <summary>Animation class used in WPF touchscreens</summary>
+    <tags>touchscreen VCS WPF animation touchscreens</tags>
+    <references>
+      <reference file="Artefact.dll" />
+    </references>
+  </metadata>
+</package>

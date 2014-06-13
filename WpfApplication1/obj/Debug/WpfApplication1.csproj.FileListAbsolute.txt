@@ -1,0 +1,31 @@
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\DirectShowLib-2005.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\HelixToolkit.Wpf.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\HelixToolkit.Wpf.SharpDX.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\Skt_05.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\TelestrationWPF.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\VideoPlayerWPF.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\WPFMediaKit.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\WPF_VCS_Common.dll
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\HelixToolkit.Wpf.pdb
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\HelixToolkit.Wpf.xml
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\HelixToolkit.Wpf.SharpDX.pdb
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\MainWindow.baml
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\App.g.cs
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\model\cube.obj
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\bin\Debug\model\cube.mtl
+\\BRSFS1\BushongV$\My Documents\Visual Studio 2013\Projects\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\BRSFS1\BushongV$\My Documents\GitHub\PaletteTest\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\BRSFS1\BushongV$\My Documents\GitHub\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\BRSFS1\BushongV$\My Documents\GitHub\PaletteTest\WpfApplication1\obj\Debug\WpfApplication1.pdb
